@@ -1,1 +1,3 @@
 henllo mai fren :)
+edicion de archivo de texto utilizando vim porque reco me dejo con traumas
+
