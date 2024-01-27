@@ -5,3 +5,5 @@ segundo cambio de archivo de texto para tener commits diferentes
 
 este es el primer cambio que se vera reflejado en un futuro en el repositorio de github
 segunda prueba de github
+
+cambio trabajo en equipo
